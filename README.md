@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @quocthang-98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-quocthang-98/quocthang-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-i'll add something later :P
+# Quick Info
+👋 Greeting! My name is **Phan Quoc Thang**, and welcome to my **GitHub** page.<br>
+👾 I am currently a third-year student at *International University*, and my major is *Computer Science*.<br>
+🍦 I am looking for an opportunity to participate in an **internship program** that is related to my major to gain more experience, as well as to improve my programming skills.
+📝 View my resume: 
+🍃 You can reach me by:
+- E-mail: **phanquocthangabc@gmail.com**
+- Phone: **(+84)97-357-4983**
+- 
