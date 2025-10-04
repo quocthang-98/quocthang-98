@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello, good to see you here!
 
-<!--
-**quocthang-98/quocthang-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+My name is **Phan Quoc Thang**, and the article you are reading here is from the `README.md` file of my personal repository - which contains the code of my personal portfoilio website!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What are you looking for?
+
+> 🌏 **[```EXPLORE PORTFOLIO```](https://pqthang.vercel.app/)**
+>
+> You can see my latest personal projects and creative experiments on this page. I keep my portfolio fresh with frequent updates, ensuring you can always find new examples of my skills and interests.
+
+> 📃 <a href='resume.pdf' target='_blank'><b>```VIEW RESUME```</b></a>
+>
+> You can review my complete professional profile here, including my detailed work experience, projects, and education.
+
+---
+
+## Contact
+
+📧 Email: [phanquocthangabc@gmail.com](mailto:phanquocthangabc@gmail.com)
+
+📞 Phone: [(+84)-97-357-4983](tel:+84973574983)
+
+## Links
+
+🟪 [Linkedin](https://www.linkedin.com/in/thang-phan-quoc-421589244/)
+
+🔵 [Facebook](https://www.facebook.com/thanggg98/)
+
+🟥 [YouTube](https://www.youtube.com/@sun_music98)
