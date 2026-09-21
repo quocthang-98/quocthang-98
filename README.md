@@ -8,7 +8,7 @@ My name is **Phan Quoc Thang**, and the article you are reading here is from the
 
 ## What are you looking for?
 
-> 🌏 [`**EXPLORE PORTFOLIO**`](https://phqthang.dev)
+> 🌏 **[```EXPLORE PORTFOLIO```](https://phqthang.dev/)**
 >
 > (**Ctrl + Click** to open in new tab)
 >
