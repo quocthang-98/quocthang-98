@@ -8,7 +8,7 @@ My name is **Phan Quoc Thang**, and the article you are reading here is from the
 
 ## What are you looking for?
 
-> 🌏 **[```EXPLORE PORTFOLIO```](https://phqthang.dev/)**
+> 🌏 <a href='https://phqthang.dev' target='_blank'><b>```EXPLORE PORTFOLIO```</b></a>
 >
 > You can see my latest personal projects and creative experiments on this page. I keep my portfolio fresh with frequent updates, ensuring you can always find new examples of my skills and interests.
 
