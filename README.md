@@ -14,7 +14,7 @@ My name is **Phan Quoc Thang**, and the article you are reading here is from the
 >
 > You can see my latest personal projects and creative experiments on this page. I keep my portfolio fresh with frequent updates, ensuring you can always find new examples of my skills and interests.
 
-> 📃 <a href='resume.pdf' target='_blank'><b>```VIEW RESUME```</b></a>
+> 📃 **[```VIEW RESUME```](https://phqthang.dev/my-resume)**
 >
 > You can review my complete professional profile here, including my detailed work experience, projects, and education.
 
