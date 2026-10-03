@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-My name is **Phan Quoc Thang**, and the article you are reading here is from the `README.md` file of my personal repository - which contains the code of my personal portfoilio website!
+My name is **Phan Quoc Thang**, and the article you are reading here is from the `README.md` file of my personal repository.
 
 ---
 
@@ -13,6 +13,8 @@ My name is **Phan Quoc Thang**, and the article you are reading here is from the
 > (**Ctrl + Click** to open in new tab)
 >
 > You can see my latest personal projects and creative experiments on this page. I keep my portfolio fresh with frequent updates, ensuring you can always find new examples of my skills and interests.
+>
+> Repo: **[```View Portfolio Repo```](https://github.com/quocthang-98/my-portfolio)**
 
 > 📃 **[```VIEW RESUME```](https://phqthang.dev/my-resume)**
 >
