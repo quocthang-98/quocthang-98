@@ -1,24 +1,21 @@
-# Hello, good to see you here!
+# It's great to see you here!
 
-Welcome to my GitHub profile.
-
-My name is **Phan Quoc Thang**, and the article you are reading here is from the `README.md` file of my personal repository.
+Welcome to my GitHub profile. My name is **Phan Quoc Thang**, and I'm a Frontend Engineer with experience using Next.js & React, as well as UI/UX Designer with Figma skills and a user-centric mindset.
 
 ---
 
-## What are you looking for?
+## QUICK START
+Select an item below to start learning more about me:
 
-> 🌏 **[```EXPLORE PORTFOLIO```](https://phqthang.dev/)**
->
-> (**Ctrl + Click** to open in new tab)
->
-> You can see my latest personal projects and creative experiments on this page. I keep my portfolio fresh with frequent updates, ensuring you can always find new examples of my skills and interests.
->
-> Repo: **[```View Portfolio Repo```](https://github.com/quocthang-98/my-portfolio)**
+### 🌏 [```MY PORTFOLIO - phqthang.dev```](https://phqthang.dev/)
 
-> 📃 **[```VIEW RESUME```](https://phqthang.dev/my-resume)**
->
-> You can review my complete professional profile here, including my detailed work experience, projects, and education.
+You'll find my latest personal projects and creative experiments here. I update this portfolio regularly, so there's always something new to see.
+
+(Curious how I built this Single-Page Application? Check out the repository:  **[```github.com/quocthang-98/my-portfolio```](https://github.com/quocthang-98/my-portfolio)**)
+
+### 📃 [```MY RESUME - phqthang.dev/my-resume```](https://phqthang.dev/my-resume)
+
+You can review my complete professional profile here, including my detailed work experience, projects, and education.
 
 ---
 
